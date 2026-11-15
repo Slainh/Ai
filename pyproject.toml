@@ -1,0 +1,8 @@
+[project]
+name = "ai-support-triage-demo"
+version = "0.1.0"
+description = "Local support ticket classification with optional Ollama and safe human review"
+requires-python = ">=3.10"
+
+[tool.setuptools.packages.find]
+include = ["support_triage*"]
