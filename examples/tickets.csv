@@ -1,0 +1,7 @@
+ticket_id,subject,message
+DEMO-001,Order tracking,My package has not arrived yet. Do you have a tracking update?
+DEMO-002,Unexpected charge,I was charged twice for my subscription. This is urgent.
+DEMO-003,Login error,I get an error when trying to login to the admin dashboard.
+DEMO-004,Cancel my subscription,I want to cancel because the product is not working for my team.
+DEMO-005,General question,Do you offer more languages?
+DEMO-006,Security problem,Security breach: I noticed an unauthorized login.
